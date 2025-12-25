@@ -4,7 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-hRGZkZ1NnI](https://www.frontendmentor.io/solutions/profile-card-component-hRGZkZ1NnI)
 - Live Site URL: [https://z-khutsishvili.github.io/profile-card-component/](https://z-khutsishvili.github.io/profile-card-component/)
 
 ## Built with
